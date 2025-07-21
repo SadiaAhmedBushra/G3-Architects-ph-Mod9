@@ -260,6 +260,7 @@ footer{
 
     .facts-container,
     .sponsor-companies,
+    .some-facts
     {
         justify-items: center;
         gap: 24px;
@@ -268,7 +269,7 @@ footer{
     #experience-badge{
         align-items: center;
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 }
 
